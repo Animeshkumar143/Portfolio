@@ -1,4 +1,4 @@
-Dear [Recruiter's Name],
+Dear HR,
 
 I hope this message finds you well. My name is Animesh Kumar Srivastava, and I am writing to express my interest in the Data Analytics and python developer. I am confident in my ability to contribute effectively to your team. I have attached my resume for your review.
 
