@@ -8,4 +8,4 @@ Best regards,
 
 Animesh Kumar Srivastava
 Email -- animeshlala143@gmail.com
-Live Portfolio Link ---  https://animeshkumar143.github.io/Animeshkumar.github.io/
+Live Portfolio Link --- https://animeshkumar143.github.io/Portfolio/
